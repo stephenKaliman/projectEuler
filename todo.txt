@@ -1,0 +1,4 @@
+just some personal notes:
+
+problems that run a bit slow (may want to revisit & optimize):
+  {3}
