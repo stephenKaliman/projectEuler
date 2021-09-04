@@ -1,4 +1,6 @@
 just some personal notes:
 
 problems that run a bit slow (may want to revisit & optimize):
-  {3}
+  {3,10}
+  notes:
+  10 a little slow due to find primes being slow-- consider speeding up primes util
