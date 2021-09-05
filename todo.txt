@@ -4,3 +4,6 @@ problems that run a bit slow (may want to revisit & optimize):
   {3,10}
   notes:
   10 a little slow due to find primes being slow-- consider speeding up primes util
+  
+to be fixed:
+  8 fails if number contains a 0 in first 13 digits
